@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)]
+![MasterHead](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
 <h1 align="center">Hi 👋, I'm Shreekanth Rathod</h1>
 <h3 align="center">A passionate MSBI developer from India</h3>
 
