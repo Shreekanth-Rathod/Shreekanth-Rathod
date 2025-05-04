@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="1000" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 <h1 align="center">Hi 👋, I'm Shreekanth Rathod</h1>
-<h3 align="center">A passionate MSBI developer from India</h3>
+<h3 align="center">A passionate MSBI developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn-acdhi.nitrocdn.com/hXyuVswrwlizpLWkYZeWRpAyePZJyHjB/assets/static/optimized/rev-7b99b31/wp-content/uploads/2018/08/Power-BI-GIF-1.gif">
 
